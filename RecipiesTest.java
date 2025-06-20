@@ -3,11 +3,13 @@ import org.junit.Test;
 
 public class RecipiesTest {
     
-    @Test
-    public void calculatorInitialValueZero() {
-    } 
 
     // SECTION 1: test whether recipe.txt is read in and stored correctly in program
+
+    @Test
+    public void txtFileReadCorrectly() {
+        
+    } 
 
 
 
